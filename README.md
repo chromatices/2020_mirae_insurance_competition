@@ -19,7 +19,7 @@ python main.py --estimators 25000 --leaves 300 --lr 0.01 --topk 20
 --------------
  또한 원본 데이터는 제외하고 업로드 하였습니다. 사용한 디렉토리는 다음과 같습니다.
 
-* Folder structure
+* Folder structure    
 =========    
 -2020_mirae_insurance_competition    
 |--modules    
